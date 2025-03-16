@@ -1,6 +1,8 @@
  # Practica 0: Uso de Repositorios 
 
  ## Introduccion
+ A continuación hablaremos sobre Markdown, como se utiliza y a su vez como podemos configurar GitHub Actions para poder subir nuestras paginas a un portafolio.
+ Tambien hablaremos sobre que es y como crearemos nuestra propia pagina Hugo. 
 
  <!-- MARKDOWN -->
  ## ¿Qué es Markdown?
