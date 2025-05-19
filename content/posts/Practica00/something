@@ -1,0 +1,14 @@
+:- implicacion inversa
+
+esto se cumple :- si esto es correcto
+
+#comandos de inicio
+cd swipi #debemos ubicarnos en la carpeta correspondiente
+swipl
+
+#bucles en prolog
+count_to_10(10) :- wirte(10),n1.
+count_to_10(X) :
+    wirte(x1),n1n
+    Y is X + 1
+    count_to_10(Y)
